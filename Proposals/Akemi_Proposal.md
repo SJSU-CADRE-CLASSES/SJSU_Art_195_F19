@@ -9,7 +9,10 @@ My piece for this exhibition will be one projection mapping installation, pushin
 
 
 ### Gallery Sketch
+##### Front View
 ![](https://github.com/nakemi/ART195/blob/master/frontview.png)
+##### Top View
+![](https://github.com/nakemi/ART-195/blob/master/top.png)
 
 
 #### Materials
