@@ -5,7 +5,8 @@ My piece for this exhibition will be one projection mapping installation, pushin
 
 
 ### Early 3D Model Prototypes
-![alt text](https://github.com/nakemi/ART-195/blob/master/model1.png)
+Originally conceived in Professor Holberton's 104 class
+![alt text](https://github.com/nakemi/ART-195/blob/master/models%20.png)
 
 
 ### Gallery Sketch
