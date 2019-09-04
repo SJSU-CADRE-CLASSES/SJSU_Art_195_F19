@@ -5,11 +5,11 @@ My piece for this exhibition will be one projection mapping installation, pushin
 
 
 ### Early 3D Model Prototypes
-Originally conceived in Professor Holberton's 104 class
+Originally conceived in Professor Holberton's 102 class
 ![alt text](https://github.com/nakemi/ART-195/blob/master/models%20.png)
 
 
-### Gallery Sketch
+### Gallery Sketches
 ##### Front View
 ![](https://github.com/nakemi/ART195/blob/master/frontview.png)
 ##### Top View
@@ -24,6 +24,7 @@ Originally conceived in Professor Holberton's 104 class
 * 1 MacMini
 * 10 White Cardboard Panels
 * Transparent Wire
+
 
 ### Mapping Test Screenshot
 ![](https://github.com/nakemi/ART195/blob/master/syphonertest.png)
