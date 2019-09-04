@@ -4,6 +4,6 @@ I am one of the many whose path has not always been clear. Since graduating high
 I have designed a small robot to represent what I have felt through my pursue of a loving career. A robot who invites you to imagine yourself in my shoes as I look left and right for yet another lifestyle change. A robot excited about all the possibilities of happiness but unable to decide which path to take. <br><br>
 
 <b>MATERIALS NEEDED:</b><br>
--My robot 5X5X3.5
--One shoe
--2 foot radius floor space 
+-My robot 5X5X3.5 <br>
+-One shoe <br>
+-2 foot radius floor space <br>
