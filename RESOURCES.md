@@ -41,3 +41,12 @@ Class Website: https://github.com/ablanton/SJSU_ART_195_F19
 7. Museum of Jurassic Technology http://www.mjt.org/exhibits/hagop/pope.html
 8. Adafruit displays https://www.adafruit.com/category/63
 9. Life Water Frieze NY https://frieze.com/media/art-and-technology-frieze-new-york-2019
+
+9/4
+----------
+1. Not Not & Ping https://vimeo.com/86922461
+2. SJSU Kanopy https://sjsu.kanopy.com/login
+3. Class shows documents https://drive.google.com/drive/folders/0B-lV8rJ2OZHbWXNiWmpiaUJXN3c
+4. B4B3L4B https://img.globalnpo.org/1/v/t1.0-0/p180x540/48388719_2117804651620701_3197032651366072320_o.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=21da08e3bdc203062e585116234267ac&oe=5D8EB3E5
+5. Tiare Ribeaux Cyanovisions https://vimeo.com/317087858
+6. Chris Marker Sans Soleil https://www.youtube.com/watch?v=LGDu7YOlVuE
