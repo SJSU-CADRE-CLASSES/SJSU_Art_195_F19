@@ -50,3 +50,11 @@ Class Website: https://github.com/ablanton/SJSU_ART_195_F19
 4. B4B3L4B https://img.globalnpo.org/1/v/t1.0-0/p180x540/48388719_2117804651620701_3197032651366072320_o.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=21da08e3bdc203062e585116234267ac&oe=5D8EB3E5
 5. Tiare Ribeaux Cyanovisions https://vimeo.com/317087858
 6. Chris Marker Sans Soleil https://www.youtube.com/watch?v=LGDu7YOlVuE
+
+9/11
+-----------
+1. Laurie Andreson Oh Superman https://www.youtube.com/watch?v=mua8Pr6uRso&t=147s
+2. Class Shows Folder https://drive.google.com/drive/folders/0B-lV8rJ2OZHbWXNiWmpiaUJXN3c
+3. Colorful Colorado https://www.youtube.com/watch?v=6-l2GJ7eou8
+4. 5 min romp through the Sandin Image Processor https://vimeo.com/316214052
+5. SWITCH http://switch.sjsu.edu/
