@@ -84,12 +84,12 @@ Schedule
 | *Week 7* 10/02      | Planning and Coordination Initial Site layout, Planning and Coordination |
 | *Week 8* 10/09      | First Prototypes and 3d OBJ's Due – Initial Website and Documentation Due |
 | *Week 9* 10/16      | Individual meetings on presentation proposal review |
-| *Week 10* 10/23     | Thanksgiving! - No Class |
+| *Week 10* 10/23     |  |
 | *Week 11* 10/30     | Workshop on Installing for digital - Reading 3 |
 | *Week 12* 11/06     | Workshop on Installing for digital |
-| *Week 13* 11/13     |  |
-| *Week 13* 11/20     |  |
-| *Week 14* 11/27     | Workshop on Installing for digital  |
+| *Week 13* 11/13     | Workshop on Installing for digital - Students meet with teams |
+| *Week 13* 11/20     | Final Installations Due - finalize all planning |
+| *Week 14* 11/27     | Thanksgiving! - No Class |
 | Final 12/4          | **Final Documantation Due** |
 |                  |  |
 
