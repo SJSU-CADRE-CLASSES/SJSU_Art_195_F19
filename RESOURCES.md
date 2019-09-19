@@ -58,3 +58,20 @@ Class Website: https://github.com/ablanton/SJSU_ART_195_F19
 3. Colorful Colorado https://www.youtube.com/watch?v=6-l2GJ7eou8
 4. 5 min romp through the Sandin Image Processor https://vimeo.com/316214052
 5. SWITCH http://switch.sjsu.edu/
+
+9/18
+-----------
+1. dichroic film https://www.decorativefilm.com/3m-fasara-dichroic-df-pa-blaze-48-wide-3
+2. Amazon Ec2 server https://aws.amazon.com/ec2/
+3. lose/lose https://malware.wikia.org/wiki/Lose/Lose
+4. Qalb Language http://nas.sr/%D9%82%D9%84%D8%A8/
+5. ICST Ambisonics https://cycling74.com/tools/icst-ambisonics-tools
+6. EsoLangs https://esolangs.org/wiki/Language_list
+7. Alex McLeod https://vimeo.com/254376128
+8. ShaderToy https://www.shadertoy.com/view/ldB3Rz
+9. Chris Burden https://www.youtube.com/watch?v=gwh-XMFMp8U
+10. Dennis Oppenheim https://www.youtube.com/watch?v=7A-mowlXVMI
+11. Dennis Oppenheim https://www.youtube.com/watch?v=oxLJgT2pgNI
+12. Bill Viola https://www.youtube.com/watch?v=w3VfWLlkuRI
+13. DemoScene https://www.youtube.com/watch?v=PidTKpKLYZM
+14. Time Code https://www.youtube.com/watch?v=icUyG8ZdX04
