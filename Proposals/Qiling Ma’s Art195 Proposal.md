@@ -19,3 +19,6 @@ I want to create a projection mapping on a Phenakistiscope or a 3D zoetrope. The
   - Use arduino to make the cylindrical zoetrope constantly spinning
   - Use projection mapping video project on the cylindrical zoetrope 
 
+### BFA Show Prototype Render:
+![alt text](https://cdn.glitch.com/7626c818-cfd4-4341-81d6-432c739679fc%2FQilingMa_Proposal%20Render_3.jpg?v=1568860281061 "image1")
+![alt text](https://cdn.glitch.com/7626c818-cfd4-4341-81d6-432c739679fc%2FQilingMa_Prototype.jpg?v=1568860277025 "image2")
