@@ -75,3 +75,10 @@ Class Website: https://github.com/ablanton/SJSU_ART_195_F19
 12. Bill Viola https://www.youtube.com/watch?v=w3VfWLlkuRI
 13. DemoScene https://www.youtube.com/watch?v=PidTKpKLYZM
 14. Time Code https://www.youtube.com/watch?v=icUyG8ZdX04
+
+8/25
+----------
+1. Felt Zine Opening https://www.youtube.com/watch?v=sA6Dx-T3Bsc
+2. W3Schools templates https://www.w3schools.com/w3css/w3css_templates.asp
+3. Creative Applications B4B3L4B https://www.creativeapplications.net/wp-content/uploads/2016/09/I-Love-hate-that-I-love-hate-this-Min-Choi.jpg
+4. B4B3L4B Events https://www.b4bel4b.com/events
