@@ -1,0 +1,2 @@
+Akemi Sato is an audiovisual artist currently based in the California Bay Area. She is receiving her BFA in Digital Media Art from San Jose State University in 2019.
+Through studying altered states of consciousness as spiritual and hedonistic rituals, Akemi’s work examines the sonic and visual relationships of these states. Her work often explores the imbalances within the physical and non-physical realms of human perception through video, projection mapping, and sound design.
