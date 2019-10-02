@@ -10,9 +10,9 @@ Personally, I like to explore how the body interacts with an environment and wha
   
 ### How it Works
 
-About 10-20 one way/two way mirrors will be suspended at different heights (ranging from 5-6.5ft from the ground) forming a circle in the center of the exhibition space. A single light will be focused on the center of the circle, causing the inside to become reflective, while the rest of the room will be left dim. When a person stands within the circle, he/she will see him/herself reflected back while those walking around the suspended mirrors can look straight through the mirrors at the person in the center. 
+Several one way/two way mirrors will be layered and fixed together to create a giant wall. The wall itself will be curved so that it may stand on its own:the side curving inward will be reflective (mirrored) and the outside being see-through. Two lights will be focused on the viewer when approaching the mirror side, one from the front and one the back, while the rest of the room will be left dim. When a person stands in front of the reflective side, he/she will see him/herself reflected back while those walking around to the other side can look straight through the mirrors at the person on the other side. 
   
 ### Questions/Next Steps
 
-Considering the cost of the project, it may become very expensive. An alternative is to make the mirrors myself by purchasing clear acrylic sheet and mirror film separately. I will also have to consider the installation process and how to suspend the sheets from the ceiling. In addition, depending on how many mirrors I use, there will be apparent gaps between each mirror, should I cover it with fabric or leave it as is? In addition, should there be a use of sound or use silence as part of the piece? 
+Considering the cost of the project, it may become very expensive. An alternative is to make the mirrors myself by purchasing clear acrylic sheet and mirror film separately. I will also have to consider the installation process and how I will create this wall. In addition, should there be a use of sound or use silence as part of the piece? 
 
