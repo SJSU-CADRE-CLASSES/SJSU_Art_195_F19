@@ -18,7 +18,7 @@ I am excited to evolve an older robotics project and evolve it to create <i>Wand
 -A pair of shoes <br>
 -3X6X1 ft platform <br>
 
-<br>Artist Statement </b><br>
+<br><b>Artist Statement </b><br>
 Arantxa Astudillo<br>
 <i>Wanderove</i><br>
 2019<br>
