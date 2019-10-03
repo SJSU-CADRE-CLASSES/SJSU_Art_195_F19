@@ -12,8 +12,8 @@ The shoes coming to life is a metaphor for those of us who have gone through lif
 Wanderove will be displayed on a 3X6X1 platform placed in the center of the gallery, so to cause the sensor to detect as much action as possible and have enough room for them to roam around. 
 <br><br>
 I am excited to evolve an older robotics project and evolve it to create Wanderove. I feel that many people have gone though questionable moments in their life and would relate to what the shoes are walking through. 
-<br>
-<b>MATERIALS NEEDED:</b><br>
+<br><b>
+ MATERIALS NEEDED:</b><br>
 -My robots 5X5X3.5 <br>
 -A pair of shoes <br>
 -3X6X1 ft platform <br>
