@@ -82,3 +82,18 @@ Class Website: https://github.com/ablanton/SJSU_ART_195_F19
 2. W3Schools templates https://www.w3schools.com/w3css/w3css_templates.asp
 3. Creative Applications B4B3L4B https://www.creativeapplications.net/wp-content/uploads/2016/09/I-Love-hate-that-I-love-hate-this-Min-Choi.jpg
 4. B4B3L4B Events https://www.b4bel4b.com/events
+
+10/2
+------
+*No Internet*
+
+10/9
+-------
+1. A History of the Sky https://vimeo.com/32095756
+2. Andrew Benson https://twitter.com/pixlpa
+3. Feedback Study https://www.youtube.com/watch?time_continue=1&v=EpB1CbfRKcs
+4. Jenny Vogel https://vimeo.com/29125959
+5. Jenny Vogel https://vimeo.com/30044159
+6. Ways of Seeing https://www.youtube.com/watch?v=0pDE4VX_9Kk
+7. Stan Brakhage https://www.youtube.com/watch?v=XaGh0D2NXCA
+8. Takeshi Murata https://www.sfmoma.org/read/takeshi-murata-monster-movie/
