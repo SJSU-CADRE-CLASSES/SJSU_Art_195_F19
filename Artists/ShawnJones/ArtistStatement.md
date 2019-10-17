@@ -1,0 +1,2 @@
+Memoriae Mori
+Memoriae Mori is an interactive installation featuring a ceremonial relic that allows the audience to reflect on their memories and see if they truly are willing to let go. We all have memories that have affected us in some way, shape, or form; molding us into the people we are today. These experiences, if lost, could change us for the better or for the worse. Whether it be negative or positive memory, this exhibition forces us to become aware of these memories as well as how they have affected us.
