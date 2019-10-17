@@ -80,11 +80,11 @@ Schedule
 | *Week 3* 09/04      | Group meeting, Individual meetings proposal review |
 | *Week 4* 09/11      | Group meeting, Planning and Coordination - Milestone 1 - Working Title and Concept |
 | *Week 5* 09/18      | Student proposal Due |
-| *Week 6* 09/25      | Student proposal - Reading 2 **Meeting Lisa at the Hammer at 3:30 We will meet in the class first** |
+| *Week 6* 09/25      | Student proposal - Reading 2  |
 | *Week 7* 10/02      | Planning and Coordination Initial Site layout, Planning and Coordination |
 | *Week 8* 10/09      | First Prototypes and 3d OBJ's Due – Initial Website and Documentation Due |
-| *Week 9* 10/16      | Individual meetings on presentation proposal review |
-| *Week 10* 10/23     |  |
+| *Week 9* 10/16      | Workshop on Installing for digital |
+| *Week 10* 10/23     | Planning and Coordination Initial Site layout |
 | *Week 11* 10/30     | Workshop on Installing for digital - Reading 3 |
 | *Week 12* 11/06     | Workshop on Installing for digital |
 | *Week 13* 11/13     | Workshop on Installing for digital - Students meet with teams |
