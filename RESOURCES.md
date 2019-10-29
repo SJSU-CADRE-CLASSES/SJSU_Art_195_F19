@@ -97,3 +97,19 @@ Class Website: https://github.com/ablanton/SJSU_ART_195_F19
 6. Ways of Seeing https://www.youtube.com/watch?v=0pDE4VX_9Kk
 7. Stan Brakhage https://www.youtube.com/watch?v=XaGh0D2NXCA
 8. Takeshi Murata https://www.sfmoma.org/read/takeshi-murata-monster-movie/
+
+10/23
+--------
+1. W3 Schools Templates https://www.w3schools.com/w3css/w3css_templates.asp
+2. Rhizome Events https://rhizome.org/community/events/
+3. e-flux announcments https://www.e-flux.com/announcements/
+4. Adafruit LCD's https://www.adafruit.com/category/63
+5. B4B3L4B Events https://www.b4bel4b.com/events
+6. Radical Software http://www.radicalsoftware.org/e/volume1nr2.html
+7. Instructables Digital Joints https://www.instructables.com/id/50-Digital-Joints-poster-visual-reference/
+8. NES Mod's https://www.google.com/search?q=nes+chassis+mod&sxsrf=ACYBGNSuf6RXKRlaSZ8glFeJqgVpzN2L6g:1571280824783&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjh9ZybpaLlAhVTFjQIHTlYCk4Q_AUIEygC&biw=1353&bih=835#imgrc=_
+8. Ariadne https://vimeo.com/ariadnesound
+9. NES Cartdrige Programming http://blog.fritzvd.com/2016/06/13/Getting-started-with-NES-programming/
+10. Expanded Cinema http://www.vasulka.org/Kitchen/PDF_ExpandedCinema/book.pdf
+11. Designing Accessible Color https://stripe.com/au/blog/accessible-color-systems
+12. Chassis Mod's https://www.google.com/search?q=computer+chassis+modification&sxsrf=ACYBGNRkxAg0b5vMEOlhkQiI7bLVqZvc2w:1571280767519&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjs2fX_pKLlAhWhJzQIHcnCCaoQ_AUIEigB&biw=1667&bih=1071#imgrc=MSVczM9Xq7kIBM:
