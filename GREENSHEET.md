@@ -77,22 +77,29 @@ Schedule
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Week 1* 08/21      | Initial Meeting, Planning and Coordination  |
 | *Week 2* 08/28      | Group meeting, Individual meetings proposal review |
+| *Week 3* 09/02      | Individual meetings, students fill out doodle pool |
 | *Week 3* 09/04      | Group meeting, Individual meetings proposal review |
 | *Week 4* 09/11      | Group meeting, Planning and Coordination - Milestone 1 - Working Title and Concept |
 | *Week 5* 09/18      | Student proposal Due |
+| *Week 6* 09/23      | Individual meetings, students fill out doodle pool |
 | *Week 6* 09/25      | Student proposal - Reading 2  |
 | *Week 7* 10/02      | Planning and Coordination Initial Site layout, Planning and Coordination |
 | *Week 8* 10/09      | First Prototypes and 3d OBJ's Due – Initial Website and Documentation Due |
+| *Week 9* 10/14      | Individual meetings, students fill out doodle pool |
 | *Week 9* 10/16      | Check In on Show Documentation - Workshop on Installing for digital |
 | *Week 10* 10/23     | **Show Promo Due (Poster, Press Release)** Planning and Coordination Initial Site layout |
 | *Week 11* 10/30     | Workshop on Installing for digital - Reading 3 |
 | *Week 12* 11/06     | Workshop on Installing for digital |
+| *Week 13* 11/09     | Individual meetings, students fill out doodle pool |
 | *Week 13* 11/11     | **Installation in SJSU Gallery** |
-| *Week 13* 11/13     | Workshop on Installing for digital - Students meet with teams |
-| *Week 13* 11/20     | Final Installations Due - finalize all planning |
-| *Week 14* 11/27     | Thanksgiving! - No Class |
-| Final 12/4          | **Final Show At B4B3L4B** |
-|                  |  |
+| *Week 13* 11/13     | Workshop on Installing for digital - Students meet with teams for website |
+| *Week 14* 11/18     | Individual meetings, students fill out doodle pool |
+| *Week 14* 11/20     | Final Installations Due - finalize all planning |
+| *Week 15* 11/27     | Thanksgiving! - No Class |
+| *Week 16* 09/02     | Individual meetings, students fill out doodle pool |
+| *Week 16* 12/04     | Final class meeting, resolving documentation, working on website |
+| Final 12/6          | **Final Show At B4B3L4B** |
+| Final 12/11         | **Final Website documentation delivered** |
 
 **University Policies**
 Dropping and Adding
