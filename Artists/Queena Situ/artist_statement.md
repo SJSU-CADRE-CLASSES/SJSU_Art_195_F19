@@ -1,5 +1,7 @@
 Queena Situ
+
 *Reverb*, 2019
+
 audio and video
 
 How much do we actually know about ourselves? Do we actually know ourselves best or do other people know us better?
