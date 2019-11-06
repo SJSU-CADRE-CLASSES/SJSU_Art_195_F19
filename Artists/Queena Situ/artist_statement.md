@@ -1,6 +1,12 @@
-How much do we actually know about ourselves? Do we actually know ourselves best or do other people know us better? 
+Queena Situ
+*Reverb*, 2019
+audio and video
 
-What kinds of things do we say to ourselves when we escape into our own minds and self-reflect? Are we self-critical? Encouraging? Self-deprecating? Judgemental? Maybe our minds wander and we delve into memories of our past. Introspection is something that we all do in silence, and something that we do not typically express aloud. Sometimes we prefer to be with ourselves and try to get to know ourselves better, but we all have implicit biases and subjective opinions, whether they be about ourselves, other people, or subjects aside from ourselves. Our thoughts are aways with us, and we are always speaking to ourselves, having our own personal conversations. 
+How much do we actually know about ourselves? Do we actually know ourselves best or do other people know us better?
+
+This is a piece about introspection and the various voices that we might hear in our minds. These voices might come from ourselves or from people we have met. They might even be figments of our imagination, but regardless, we hear them. Sometimes these voices can be loud, and at other times, they are barely whispers, yet we are still able to hear them. Sometimes these voices are demeaning and critical, and on ocassion, they are uplifting and positive. These voices can be overwhelming, and it might feel like no matter how hard we try, we can not shut them out, but if we actually manage to, the voices will return after a short repsite of silence.
+
+The voices echo and reverberate inside our skulls.
 
 We are our own worst critics, but also the strongest motivators.
  
