@@ -1,4 +1,1 @@
-*Monochromatic* is a collage of heavily edited found footage meant to immerse the viewer through color deficient eyes. It is a visual
-disorder that cannot be cured through conventional means but usually is not severe enough to hinder everyday life. As a colorblind myself,
-are the changes to color channels intentional? Or are they the result of someone who can't see certain colors communicating in a spectrum
-only they would understand.
+*Red, Yellow, Green?* is a collage of heavily exaggerated found footage meant to immerse the viewer through color deficient eyes. 1 in 12 men are born with it while a measly 1 in 200 women are born with it. I myself suffer from mostly from red-green and blue-yellow. Although it rarely becomes severe enough to hinder day-to-day life, traffic lights are something I suffer from the most. Depending on time of day and distance, the lights can become indistinguishable. Its very hard to notice but if someone makes a comment about not being able to see colors as vividly as you, they're most likely colorblind.
