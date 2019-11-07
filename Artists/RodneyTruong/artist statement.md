@@ -1,0 +1,2 @@
+Planet penguin is a 2D Platform Shooter that reverses the role of the human and penguins. As humans we our responsible for being the greatest threat to penguins due to our waste, overfishing and development. For this game I wanted to reverse the role of humans and penguins, predators to become prey. I've always found videogames to be the most immersive form of digital media and felt that it was appropriate for establishing the vision I had for this show. 
+
