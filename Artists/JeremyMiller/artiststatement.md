@@ -1,1 +1,7 @@
- As an artist, I bring into light issues that are not only important to myself, but to those who may not have the medium/courage/will to express themselves. As one who suffers from Obsessive Compulsive Disorder, mental illness is something that is of great interest to me and a subject I like to cover in my works. Dealing with an illness such as this, I have an insider’s perspective, and can analyze such a subject with a little bit better understanding of the intricacies that accompany the disorder. The way that I choose to explore issues is through the use of digital media, using programs such as Adobe’s Creative Suite, HTML, and sometimes through code such as Python, the Max visual programming language, and Arduino’s C++ coding. 
+Jeremy Miller
+
+Obsessive Compulsive, 2019
+
+Video projection
+
+Obsessive Compulsive is a projected video about experiencing Obsessive Compulsive Disorder, and the obsessions and rituals that happen to those suffering with the disease. It explores repetition and the crippliing anxiety associated with Obsessive Compulsive Disorder. The depicted rituals and obsessions are those of the artist himself, and is a reflection of the progress made throughout the years.
