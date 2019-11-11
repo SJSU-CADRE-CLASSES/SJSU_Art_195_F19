@@ -113,3 +113,20 @@ Class Website: https://github.com/ablanton/SJSU_ART_195_F19
 10. Expanded Cinema http://www.vasulka.org/Kitchen/PDF_ExpandedCinema/book.pdf
 11. Designing Accessible Color https://stripe.com/au/blog/accessible-color-systems
 12. Chassis Mod's https://www.google.com/search?q=computer+chassis+modification&sxsrf=ACYBGNRkxAg0b5vMEOlhkQiI7bLVqZvc2w:1571280767519&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjs2fX_pKLlAhWhJzQIHcnCCaoQ_AUIEigB&biw=1667&bih=1071#imgrc=MSVczM9Xq7kIBM:
+
+10/30
+--------
+1. Matrox triple head https://www.matrox.com/graphics/en/products/gxm/th2go/displayport/
+2. BBrightSign https://www.brightsign.biz/
+3. Watchout https://www.dataton.com/us
+4. TouchDesigner https://derivative.ca/community-post/made-love-touchdesigner-v99-cusersdeadmau5
+5. Obscura Digital https://vimeo.com/obscuradigital
+6. Christie Projectors https://www.bhphotovideo.com/c/search?ci=6340&fct=fct_brand_name%7cchristie&N=4294546231
+7. Taylor Swift Bracelet https://www.youtube.com/watch?v=UNWr0BYHIiE
+
+11/6
+-----
+1. Ouchhh https://vimeo.com/109912712
+2. Exo https://vimeo.com/329832343
+3. Verso Books https://www.versobooks.com/
+4. Maotic http://www.maotik.com/dromos1/
