@@ -130,3 +130,13 @@ Class Website: https://github.com/ablanton/SJSU_ART_195_F19
 2. Exo https://vimeo.com/329832343
 3. Verso Books https://www.versobooks.com/
 4. Maotic http://www.maotik.com/dromos1/
+
+11/13
+---------
+Gallery Crit
+
+11/20
+----------
+Bird Matrix https://vimeo.com/128755359
+Levitating Water https://www.youtube.com/watch?v=qFXIhrDc6Rw
+Water and Sound https://www.youtube.com/watch?v=uENITui5_jU
