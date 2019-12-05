@@ -35,7 +35,36 @@ http://www.templatemo.com/tm-500-fluid-gallery
 
         <script src="js/jquery-1.11.3.min.js"></script>
         <!-- jQuery (https://jquery.com/download/) -->
+<style>
+    .gallery {
+        display:grid;
+        grid-template-areas: "img1 img3"
+                             "img1 img2"
+                             "img4 img2";
+        grid-template-columns: repeat(2, 0.75fr);
+        grid-gap: 10px;
+    }
 
+    #corner {
+        grid-area: img1;
+        height: 100%;
+    }
+
+    #michelle {
+        grid-area: img2;
+    }
+
+    #nameplate {
+        grid-area: img3;
+    }
+
+    #landscape_corner {
+        grid-area: img4;
+
+    }
+
+
+</style>
  
 </head>
 
@@ -103,44 +132,67 @@ http://www.templatemo.com/tm-500-fluid-gallery
                                                 We are our own worst critics, but also the strongest motivators.
                 
                                                 </p>
+
+                                            
+
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+
+                                <center><div>
+                                    <iframe src="https://player.vimeo.com/video/370853547" width="100%" height="615" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                                    <p style="padding-bottom: 5%"><a href="https://vimeo.com/370853547">Reverb Visual</a> from <a href="https://vimeo.com/user66673011">Queena Situ</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+
+                                    <h2 class="tm-text-title">Just the Audio...</h2>
+
+
+                                    <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" style="padding-bottom: 2em; padding-top: 1em" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/707672656&color=%2300cc11&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+                                </div> </center>
+
                             
-                                <!-- <div class="row tm-white-box-margin-b">
+                                <div class="row tm-white-box-margin-b">
                                     <div class="col-xs-12">
                                         <div class="tm-flex">
+
                                             <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding">
-                                                <h2 class="tm-text-title">Multiple Columns</h2>
-                                                <p class="tm-text">Optional smaller text space</p>
-                                            </div>
-                                            <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding">
-                                                <h2 class="tm-text-title">Class aptent taciti</h2>
-                                                 <figure><a href="img/tm-img-02.jpg"><image src="img/tm-img-02.jpg"/></a></figure>     
-                                            </div>
-                                            <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding">
-                                                <h2 class="tm-text-title">Aenean auctor</h2>
-                                                <figure><a href="img/tm-img-01-tn.jpg"> <image src="img/tm-img-01-tn.jpg"/></a></figure>     
+
+                                                <h2 class="tm-text-title" style="padding: 10px">Photos</h2>
+
+                                             <div class="gallery">   
+                                                <figure id="corner"><a href="img/Queena_2.jpg"><image src="img/Queena_2.jpg"/></a></figure>
+                                            
+                                        <!--     <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding"> -->
+                                            
+                                                 <figure id="nameplate"><a href="img/nameplate.jpg"><image src="img/nameplate.jpg"/></a></figure>     
+                                            <!-- </div> -->
+                                        <!--     <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding"> -->
+                                               
+                                                <figure id="michelle"><a href="img/Queena_michelle.jpg"> <image src="img/Queena_michelle.jpg"/></a></figure>  
+
+                                                <figure id="landscape_corner"><a href="img/Queena_1.jpg"> <image src="img/Queena_1.jpg"/></a></figure> 
+                                                <!-- </div> -->  
+                                                </div> 
                                             </div>
                                         </div>
                                     </div>
-                                </div>  -->
+                                </div> 
                                 
                                 <div class="row tm-white-box-margin-b">
                                     <div class="col-xs-12">
                                         <div class="tm-flex">
                                             <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding">
-                                                <h2 class="tm-text-title">Nulla vitae magna</h2>
-                                                  <figure><a href="img/tm-img-01-tn.jpg"> <image src="img/tm-img-01-tn.jpg"/></a></figure>   
+                                                <h2 class="tm-text-title" style="padding: 10px">The Journey</h2>
+                                                  <center><iframe src="https://player.vimeo.com/video/377477355" width="100%" height="600" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                                                    <p><a href="https://vimeo.com/377477355">Before, During, and After</a> from <a href="https://vimeo.com/user66673011">Queena Situ</a> on <a href="https://vimeo.com">Vimeo</a>.</p> </center> 
+
                                             </div>
-                                            <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding">
-                                                <h2 class="tm-text-title">Video (Use percentages for width and height to make responsive)</h2>
-                                                 <iframe width="100%" height="90%" src="https://www.youtube.com/embed/UyxvhVPUj0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
-                                            </div>
+                                            
                                         </div>
                                     </div>
-                                </div>  
+                                </div> 
 
                                 
                                 
@@ -148,7 +200,7 @@ http://www.templatemo.com/tm-500-fluid-gallery
                                     <div class="col-xs-12">
                                         <div class="tm-flex">
                                             <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-textbox-padding">
-                                                <h2 class="tm-text-title">About me... </h2>
+                                                <h2 class="tm-text-title">About me</h2>
                                                 <p></p>
                                                 <p class="tm-text"><em>"There is strength in vulnerability, solidarity in transparency, and power in truth because it can't be anything but."</em>
 
